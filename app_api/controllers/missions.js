@@ -176,4 +176,8 @@ module.exports.missionsDeleteOne = function(req, res){
 				sendJsonRes(res, 204, null);
 			})
 		})
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 4ce12b6d13c94b3819c058c826fd717492726397
