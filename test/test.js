@@ -1,7 +1,6 @@
 var chai = require('chai');
 var should = chai.should();
-var User = require('../AirLoft-master/app_api/models/users.js');
-//var User = require('/Users/Bear/Documents/AirLoft-master/app_api/controllers/authentication.js');
+var User = require('./AirLoft-master/app_api/models/users.js');
 
 describe('User', function() {
   describe('#save()', function() {
